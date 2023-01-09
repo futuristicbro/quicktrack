@@ -1,19 +1,11 @@
 :root{
-  background-color: black;
+  background-color: white;
 }
 
-.header{
-    background-color:black;
-    position: relatve;
-    width:100%;
-    top:0;
-    left:0;
-    z-index:1;
-    border-bottom: 2px solid lightgreen;
-}
+
 
 .pageTitle{
-    color: white;
+    color:black;
     font-family:'poppins' sans-serif;
     font-size: 2.5rem;
     text-align: center;
@@ -21,7 +13,7 @@
 }
 
 .title{
-    color: lightgreen;
+    color: lightblue;
     font-family: Verdana;
     font-size:1rem;
     text-align: center;
