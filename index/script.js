@@ -11,10 +11,3 @@ $(document).ready(function() {
       $("#warning").toggle();
     });
   });
-
-
-  
-
-function visitorCount(response) {
-    document.getElementById('visits').innerText = response.value;
-}
