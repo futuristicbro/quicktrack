@@ -1,8 +1,5 @@
 :root{
-  background: url(/index/assets/earth.png);
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
+ background-color: bisque;
 }
 
 #trackerBg{
@@ -14,7 +11,7 @@
   }
 
 .pageTitle{
-    color:lightgreen;
+    color:blue;
     font-family:'poppins' sans-serif;
     font-size: 2.5rem;
     text-align: center;
@@ -33,7 +30,7 @@
     color:red;
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 1.5rem;
+    font-size: 15px;
 }
 
 .generate{
@@ -84,7 +81,7 @@
 
 
 .footer{
-    color:lightsalmon;
+    color: blueviolet;
     position:fixed;
     bottom:0;
 }
