@@ -57,7 +57,7 @@
 }
 
 .track{
-    background-color: green;
+    background-color: rgb(185, 31, 70);
     color:white;
     font-family:monospace;
     font-size: 20px;
@@ -67,6 +67,7 @@
     border-radius:10px;
     height:50px;
     width:200px;
+    border:none;
 }
 
 .alert{
