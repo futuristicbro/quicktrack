@@ -60,3 +60,15 @@
     marging:0 auto;
     padding:10px;
 }
+
+.visitors{
+    color:lightgreen;
+    border:none;
+    margin-top: 50px;
+}
+
+.footer{
+    color:lightgreen;
+    position:fixed;
+    bottom:0;
+}
