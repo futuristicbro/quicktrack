@@ -2,6 +2,16 @@
   background-color: black;
 }
 
+.header{
+    background-color:black;
+    position:fixed;
+    width:100%;
+    top:0;
+    left:0;
+    z-index:1;
+    border-bottom: 2px solid lightgreen;
+}
+
 .pageTitle{
     color: white;
     font-family:'poppins' sans-serif;
@@ -12,11 +22,16 @@
 
 .title{
     color: lightgreen;
-    font-family: 'Courier New' , Courier , Monospace;
+    font-family: Verdana;
     font-size:1rem;
     text-align: center;
+    padding-top:200px;
 }
 
+.typing{
+    color:red;
+
+}
 
 .generate{
     background-color: #f5f5f5;
@@ -27,6 +42,7 @@
     margin-top: 1rem;
     padding: 1rem;
     border-radius: 1rem;
+    border:3px solid lightblue;
 }
 
 .generate:hover{
@@ -37,18 +53,20 @@
     margin-top: 1rem;
     padding: 1rem;
     border-radius: 1rem;
+    border:2px solid lightblue;
 }
 
 .track{
-    background-color:lightgreen;
+    background-color: blue;
     color:white;
     font-family:monospace;
-    font-size: 1.5rem;
+    font-size: 20px;
     text-align:center;
     margin-top: 1rem;
     padding: 1rem;
     border-radius:10px;
-
+    height:50px;
+    width:200px;
 }
 
 .alert{
@@ -60,6 +78,7 @@
     marging:0 auto;
     padding:10px;
 }
+
 
 .footer{
     color:lightgreen;
