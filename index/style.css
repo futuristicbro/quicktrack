@@ -79,15 +79,3 @@
     marging:0 auto;
     padding:10px;
 }
-
-
-footer{
-    color: white;
-    background-color: black;
-    position: fixed;
-    bottom:0;
-    width:100%;
-    text-align:center;
-    bottom: 0;
-    left: 0;
-}
