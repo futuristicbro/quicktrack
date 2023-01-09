@@ -81,8 +81,13 @@
 }
 
 
-.footer{
-    color: blueviolet;
-    position:fixed;
+footer{
+    color: white;
+    background-color: crimson;
+    position: fixed;
     bottom:0;
+    width:100%;
+    text-align:center;
+    bottom: 0;
+    left: 0;
 }
