@@ -1,0 +1,41 @@
+:root{
+  background-color: black;
+}
+
+.pageTitle{
+    color: white;
+    font-family:'poppins' sans-serif;
+    font-size: 2.5rem;
+    text-align: center;
+    margin-top: 1rem;
+}
+
+.title{
+    color: lightgreen;
+    font-family: 'Courier New' , Courier , Monospace;
+    font-size:1rem;
+    text-align: center;
+}
+
+
+.generate{
+    background-color: #f5f5f5;
+    color:black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.5rem;
+    text-align: center;
+    margin-top: 1rem;
+    padding: 1rem;
+    border-radius: 1rem;
+}
+
+.generate:hover{
+    background-color:#444;
+    color: #efefef;
+    font-size: 1rem;
+    text-align:center;
+    margin-top: 2rem;
+    padding: 1rem;
+    border-radius: 1rem;
+}
+
