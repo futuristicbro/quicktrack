@@ -39,3 +39,24 @@
     border-radius: 1rem;
 }
 
+.track{
+    background-color:lightgreen;
+    color:white;
+    font-family:monospace;
+    font-size: 1.5rem;
+    text-align:center;
+    margin-top: 1rem;
+    padding: 1rem;
+    border-radius:10px;
+    
+}
+
+.alert{
+    border: 2px solid red;
+    color: red;
+    font-family: 'courier new', courier , monospace;
+    height:100px;
+    width:300px;
+    marging:0 auto;
+    padding:10px;
+}

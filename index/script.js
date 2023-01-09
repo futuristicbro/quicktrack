@@ -4,3 +4,10 @@ var typed = new Typed(".typing", {
     backSpeed: 60,
     loop: true
 });
+
+$(document).ready(function() {
+    $("#warning").hide();
+    $("#track").click(function() {
+      $("#warning").toggle();
+    });
+  });
