@@ -60,6 +60,38 @@
 
    </center> 
 
+
+
+   <template>
+    <div>
+      <button @click="showForm = true">Join Waitlist</button>
+      <form v-if="showForm" @submit.prevent="submitForm">
+        <label for="email">Email:</label>
+        <input type="email" id="email" v-model="email" required>
+        <button type="submit">Submit</button>
+      </form>
+    </div>
+  </template>
+  
+  <script>
+  export default {
+    data() {
+      return {
+        showForm: false,
+        email: ''
+      }
+    },
+    methods: {
+      submitForm() {
+        // Add code here to submit the form data to the server
+        // or perform any other actions you want to do with the form data
+        console.log(this.email)
+      }
+    }
+  }
+  </script>
+<script src="https://cdn.jsdelivr.net/npm/vue@2.6.12/dist/vue.js"></script>
+  
     <script src="script.js"></script>
 </body>
 </html>
