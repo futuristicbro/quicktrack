@@ -29,7 +29,7 @@
 .nav {
     height: 50px;
     width: 100%;
-    background-color: #4d4d4d;
+    background-color: blueviolet;
     position: relative;
   }
   
@@ -95,7 +95,7 @@
       position: absolute;
       display: block;
       width: 100%;
-      background-color: #333;
+      background-color: blueviolet;
       height: 0px;
       transition: all 0.3s ease-in;
       overflow-y: hidden;
