@@ -29,7 +29,7 @@
 
 
 .intro{
-    color: coral;
+    color: gainsboro;
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
     font-size: 15px;
@@ -49,7 +49,7 @@
 
 .generate:hover{
     background-color:white;
-    color: #efefef;
+    color: black;
     font-size: 1.5rem;
     text-align:center;
     margin-top: 1rem;
