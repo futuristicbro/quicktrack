@@ -85,3 +85,9 @@ footer{
   position:fixed;
   bottom: 0;
 }
+
+footer a{
+  color:#444;
+  text-decoration: none;
+  text-align: center;
+}
