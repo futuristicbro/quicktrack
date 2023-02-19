@@ -11,7 +11,7 @@
   }
 
 .pageTitle{
-    color: white;
+    color: blueviolet;
     font-family:'poppins' sans-serif;
     font-size: 2.5rem;
     text-align: center;
@@ -73,8 +73,8 @@
 }
 
 .alert{
-    border: 2px solid yellow;
-    color: white;
+    border: 2px solid red;
+    color: red;
     font-family: 'courier new', courier , monospace;
     height:100px;
     width:300px;
