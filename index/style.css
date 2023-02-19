@@ -1,5 +1,5 @@
 :root{
- background-color: #444;
+ background-color: blueviolet;
 }
 
 #trackerBg{
@@ -48,7 +48,7 @@
 }
 
 .generate:hover{
-    background-color:#444;
+    background-color:white;
     color: #efefef;
     font-size: 1.5rem;
     text-align:center;
