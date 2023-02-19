@@ -81,3 +81,7 @@
     marging:0 auto;
     padding:10px;
 }
+footer{
+  position:fixed;
+  bottom: 0;
+}
